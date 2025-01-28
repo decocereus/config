@@ -1,0 +1,11 @@
+theme = "Spacedust"
+font-family = "Andale Mono"
+window-title-font-family= "Andale Mono"
+font-size= 16
+window-save-state= always
+auto-update= check
+cursor-style= block
+adjust-cell-height= 35%
+mouse-hide-while-typing= true
+mouse-scroll-multiplier = 2
+window-padding-balance = true
